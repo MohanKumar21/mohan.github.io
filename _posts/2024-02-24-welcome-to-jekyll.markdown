@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Mohans Webite"
 date:   2024-02-24 13:56:47 +0530
 categories: jekyll update
 ---
